@@ -45,9 +45,83 @@ This interactive Power BI dashboard provides deep insights into hotel performanc
 
 ---
 
+## 📈 Key Business Insights
+
+This dashboard provides actionable insights to help optimize hotel operations and strategy:
+
+- **📉 Revenue & Occupancy Trends**  
+  Track fluctuations in occupancy % and RevPAR over time to improve pricing and room inventory decisions.
+
+- **🚫 Cancellations Analysis**  
+  Identify patterns and spikes in cancellation rates to reduce revenue leakage through targeted policies.
+
+- **📊 Booking Channel Contribution**  
+  Analyze revenue distribution across booking sources like OTAs, direct, and corporate channels.
+
+- **🛏️ Room Class Insights**  
+  Evaluate which room types perform best, helping guide marketing and upgrade investments.
+
+- **🧳 Length of Stay Patterns**  
+  Monitor stay duration trends to align staffing and service offerings with guest behavior.
+
+- **🏨 Cross-Property Comparisons**  
+  Benchmark performance across hotel locations to identify top performers and areas needing attention.
+
+---
+
 ## 📁 Data Model
 
 Structured using a star schema for optimized performance:
 
-- **Fact**
-# Hotel-Analysis-Report
+- **Fact Tables:**
+  - `fact_bookings`
+  - `fact_aggregated_bookings`
+
+- **Dimension Tables:**
+  - `dim_date`
+  - `dim_hotels`
+  - `dim_rooms`
+  - `KPI_Icons`
+  - `CF_Color`
+
+---
+
+## 📦 Download
+
+👉 [Click here to download the Power BI Template (.pbit)](Hotel%20Analysis%2004072025.pbit)
+
+> 💡 Note: This template does **not include actual data**. It is intended for demo purposes. Users can load their own hotel performance dataset to explore the visuals.
+
+---
+
+## 🧠 Business Use Cases
+
+- Monitor multi-property hotel performance  
+- Identify trends in occupancy and booking behavior  
+- Evaluate revenue performance by channel  
+- Reduce cancellations and optimize RevPAR  
+- Support strategic decisions with reliable KPIs  
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Power BI Desktop**  
+- Power Query for ETL  
+- DAX for custom KPIs and measures  
+- Custom icons and themes for enhanced UI  
+
+---
+
+## 📌 Note
+
+This dashboard uses hypothetical data and is created for **portfolio demonstration** and **learning purposes only**.
+
+---
+
+## 🙌 Credits
+
+Designed and developed by **Arun Kothandaraman**  
+Feel free to fork, explore, and customize it for your own use.
+
+---
