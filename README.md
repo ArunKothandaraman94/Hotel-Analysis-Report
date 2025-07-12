@@ -10,7 +10,7 @@
 
 ## 🌐 Live Dashboard Access
 
-🔗 [Click here to view the interactive Hotel Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2JlY...)  
+🔗 [Click here to view the interactive Hotel Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2JlYmMxZTQtNTZmYi00ZWMwLWJiYWMtMzFiNzY4MTQ0ZTUxIiwidCI6ImM5NjM5ODAwLTUxMDItNDdjMS1iNmU5LTRiZDgxYmU0ZWQwOSIsImMiOjZ9)  
 > Powered by Microsoft Power BI – Best viewed on desktop for full interactivity.
 
 ---
