@@ -74,12 +74,6 @@ This interactive Power BI dashboard provides deep insights into hotel performanc
 
 ---
 
-## 📁 Download
-
-👉 [Hotel Analysis 04072025.pbit](Hotel%20Analysis%2004072025.pbit) *(template only – no actual data)*
-
----
-
 ## 🧠 Business Use Cases
 
 - Monitor multi-property performance  
