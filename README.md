@@ -17,7 +17,7 @@
 
 ## 🖼️ Dashboard Preview
 
-[![View Dashboard](https://github.com/YourGitHubUsername/YourRepoName/blob/main/Screenshot%20(3).png?raw=true)](https://app.powerbi.com/view?r=eyJrIjoiY2JlY...)
+[![View Dashboard](https://github.com/ArunKothandaraman94/Hotel-Analysis-Report/blob/main/Hotel%20Analysis%20Image%2010072025.png)](https://app.powerbi.com/view?r=eyJrIjoiY2JlYmMxZTQtNTZmYi00ZWMwLWJiYWMtMzFiNzY4MTQ0ZTUxIiwidCI6ImM5NjM5ODAwLTUxMDItNDdjMS1iNmU5LTRiZDgxYmU0ZWQwOSIsImMiOjZ9)
 
 ---
 
