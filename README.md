@@ -90,4 +90,9 @@ Created by **Arun Kothandaraman**
 Feel free to fork, share, or customize for learning and demo use.
 
 ---
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/arun-raman)
+- 📧 Email: arunsep95@gmail.com
+- 🔗 GitHub: [ArunKothandaraman94](https://github.com/ArunKothandaraman94)
 
